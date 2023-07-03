@@ -15,7 +15,7 @@ The re:edu App is a web based system to visualize the distribution process of te
 
 Features:
 
-- 🏎 Fast
+- 🏎 Fastds
 
 ### Built With
 
